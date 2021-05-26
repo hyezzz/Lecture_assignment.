@@ -9,4 +9,4 @@ label이 의미하는 바는 일상다반서 0, 이별(부정) 1, 사랑(긍정)
 ## Task
 케라스의 seq2seq 모델을 사용하여 챗봇 데이터에 대해 질문이 주어졌을 때 답변을 생성하는 모델을 만들고자 한다.
 
-####### 노트북은 [이것](https://github.com/deepseasw/seq2seq_chatbot)을 참조하였음
+###### 노트북은 [이것](https://github.com/deepseasw/seq2seq_chatbot)을 참조하였음
